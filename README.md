@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=D07248&width=435&lines=Hey!+It's+Neha!;I+am+FrontEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=D07248&width=435&lines=Hey!+It's+Neha!;I+am+Software+Developer.)](https://git.io/typing-svg)
 
 <!--
 **nehabhange/nehabhange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
